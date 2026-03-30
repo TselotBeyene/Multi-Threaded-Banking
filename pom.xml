@@ -7,7 +7,7 @@
     <artifactId>banking-system</artifactId>
     <version>1.0.0</version>
     <name>Multi-Threaded Banking and Transaction System</name>
-    <description>Core Java concurrency, data integrity, and memory visibility demo</description>
+    <description>Core Java concurrency, data integrity, and memory visibility </description>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
